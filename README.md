@@ -11,13 +11,26 @@ This website is currently hosted by Netlify.
 ## Live Site
 
 Access the site [here](https://bankist-website-caitlin-malloch.netlify.app/)
-https://bankist-website-caitlin-malloch.netlify.app/
+
+Link: https://bankist-website-caitlin-malloch.netlify.app/
 
 ## UI Preview
 
 Preview of landing page and navigation bar:
 
 ![UI Preview 1](./img/bankist-website-ui-preview-1.png)
+
+Preview of the features section:
+
+![UI Preview 2](./img/bankist-website-ui-preview-2.png)
+
+Preview of the operations section, including the tabbed component revealing several different operations:
+
+![UI Preview 3](./img/bankist-website-ui-preview-3.png)
+
+Preview of the customer reviews slider:
+
+![UI Preview 4](./img/bankist-website-ui-preview-4.png)
 
 ## Tech Stack
 
