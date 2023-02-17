@@ -1,5 +1,7 @@
 # Bankist Website
 
+![Bankist](./img/logo.png)
+
 This is a minimalist corporate website for a fictional bank called Bankist. The website has a sleek, modern deisgn with dynamic content features.
 
 ## Hosting
